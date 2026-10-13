@@ -1,0 +1,33 @@
+# Generated files and local development materials
+*.pdf
+*.html
+*.zip
+*.tar.gz
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage*
+htmlcov/
+.venv/
+venv/
+.env*
+.DS_Store
+/source-archive/
+/development/
+/input.json
+/private-input.json
+/output/
+/tmp/
+/build/
+/dist/
+
+# Maintain tests and developer docs outside this published package
+/tests/
+/docs/
+/requirements-dev.txt
+/.github/
+/scripts/
+
+# Plugin submission metadata belongs in the local archive
+/plugin.json
+/.codex-plugin/

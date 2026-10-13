@@ -1,0 +1,5 @@
+{
+  "version": "1.1.2",
+  "engine_sha256": "321289d0514f40014532be463404d00244abcea703458d60aa1d0a3d4202bac0",
+  "solver": "ortools==9.15.6755"
+}
